@@ -26,7 +26,7 @@ public class Suma{
 
 	public static void mensaje(){
 		for (int i = 0; i < 2; i++) {
-		System.out.println("ola");
+		System.out.println("ola buenas tardes");
 
 		}
 	}	
